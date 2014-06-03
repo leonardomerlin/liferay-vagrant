@@ -2,7 +2,6 @@
 
 This Vagrant configuration provide a powerful development environment for Liferay.
 
-
 ## Pre-requirements
 
 Vagrant and VirtualBox
@@ -13,16 +12,9 @@ Vagrant and VirtualBox
  - start the vagrant: `vagrant up`
  - enjoy!
 
-## Documentation
-
-The environment contains: ...
-
-## Workflow
-
-I suggest ...
-
 ### TODO:
   - [ ] Liferay Portal
   - [ ] Liferay Plugins
-  - [ ] Eclipse | Liferay IDE | ST3 | Atom
-  - [ ] PostgreSQL | ?
+  - [ ] Database
+  - [ ] Test environment
+  - [ ] CI environment
